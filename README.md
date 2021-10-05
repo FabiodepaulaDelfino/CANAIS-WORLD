@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LISTA EXCLUSIVA PARA INSCRITOS PROIBIDO A VENDA ME AVISEM ZAP 24999421597 SE INSCREVAM " tvg-logo="https://yt3.ggpht.com/XOP647Q0WN0JLpehD9CVDhIzhH1d9RnTblWmHn_sIH3gCv0R6hiWl1Cr6YyGlN_oAWqzNsBa=s600-c-k-c0x00ffffff-no-rj-rp-mo"group-title="TUTORIAISDOFABIO",LISTA GRATUITA PARA INSCRITOS DO CANAL 
+#EXTINF:-1 tvg-id="" tvg-name="LISTA EXCLUSIVA PARA INSCRITOS PROIBIDO A VENDA ME AVISEM ZAP 24999421597 SE INSCREVAM " tvg-logo="https://elirodrigues.files.wordpress.com/2010/10/idiomas-mundo.jpg"group-title="TUTORIAISDOFABIO",LISTA GRATUITA PARA INSCRITOS DO CANAL 
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="General",3eesh Al Aan TV (720p)
